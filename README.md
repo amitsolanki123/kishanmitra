@@ -1,0 +1,2 @@
+# kishanmitra
+Stock management
